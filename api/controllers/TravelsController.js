@@ -1,5 +1,4 @@
 'use strict';
-var mongoose = require('mongoose');
 var axios = require('axios');
 var auth = require("../../authentication_filter.js");
 //require('axios-debug')(axios);
